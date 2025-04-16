@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 150px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
