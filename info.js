@@ -8,6 +8,7 @@ document.getElementById("log").onclick = function(){
 }
 
 document.getElementById('log').onclick = function(){
-    password = document.getElementById('
+    password = document.getElementById('Password').value;
+    document.getElementById('
 }
 
