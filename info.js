@@ -1,3 +1,5 @@
+let email;
 
-
-document.getElementById("
+document.getElementById("log").onclick = function(){
+    email = document.getElementById("log")
+}
