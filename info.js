@@ -9,6 +9,7 @@ document.getElementById("log").onclick = function(){
 
 document.getElementById('log').onclick = function(){
     password = document.getElementById('Password').value;
-    document.getElementById('
+    document.getElementById('1234').textContent = `${password}`
+    console.log(password)
 }
 
